@@ -11,8 +11,8 @@
 > 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
 > Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta. <br>
 <!--  -->
-- 🦾 I’m currently working on commercial project 'Time2Party' (soon I will add public repo with results)
-- 🎓 I’m currently learning **.NET + React**
+- 🧠 I’m currently working on **commercial fintech project** at *Brainhub | STX NEXT*
+- 🎓 I’m currently learning **Astro & Python**
 - 🎯 I want to learn more about testing
 <!--   -->
 ## 🦾 Skills
@@ -30,11 +30,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-<!--  -->
-## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskartrapczynski&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskartrapczynski&show_icons=true)
 <!--  -->
 ## Connect with me
 [![Linkedin](https://img.icons8.com/color/50/linkedin.png)](https://www.linkedin.com/in/oskar-trąpczyński-1b95751b2/)
