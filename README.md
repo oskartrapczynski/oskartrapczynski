@@ -4,7 +4,7 @@
 <!--  -->
 # Oskar T.T
 <!--  -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D8590&width=435&lines=Front+End+Developer;2D+%26+3D+Creator;Music+Producer;DJ;Audio+Engineer;Video+Editor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D8590&width=435&lines=Fullstack+Developer;2D+%26+3D+Creator;Music+Producer;DJ;Audio+Engineer;Video+Editor)](https://git.io/typing-svg)
 <!--  -->
 ## ℹ About me
 > Fullstack Dev | Music Producer, Engineer, Clubs & Sports Event DJ, <br>
