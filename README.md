@@ -7,18 +7,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D8590&width=435&lines=Front+End+Developer;2D+%26+3D+Creator;Music+Producer;DJ;Audio+Engineer;Video+Editor)](https://git.io/typing-svg)
 <!--  -->
 ## ℹ About me
-> Front-End Dev | Music Producer, Engineer, Clubs & Sports Event DJ, <br>
+> Fullstack Dev | Music Producer, Engineer, Clubs & Sports Event DJ, <br>
 > 2D & 3D Design | Video Editor, +4M views Youtube, +100k plays Spotify, <br>
 > Product lead of NFT PTW Kinguin cards | Co-worker of 2D animations AD for warta. <br>
 <!--  -->
 - 🧠 I’m currently working on **commercial fintech project** at *Brainhub | STX NEXT*
-- 🎓 I’m currently learning **Astro & Python**
-- 🎯 I want to learn more about testing
+- 🎓 I’m currently learning **Astro & Python & GenAI**
 <!--   -->
 ## 🦾 Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
