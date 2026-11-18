@@ -73,9 +73,10 @@ Fullstack Developer (TypeScript / Python) in commercial software since 2023, run
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
  
 ## 📫 Connect with me
- 
+
+[![Website](https://img.icons8.com/fluency/50/domain.png)](https://oskartrapczynski.com)
 [![LinkedIn](https://img.icons8.com/color/50/linkedin.png)](https://www.linkedin.com/in/oskar-trapczynski/)
 [![YouTube](https://img.icons8.com/color/50/youtube-play.png)](https://www.youtube.com/c/OskarTT)
 [![Instagram](https://img.icons8.com/fluency/50/instagram-new.png)](https://www.instagram.com/oskarttoffical/)
 [![Spotify](https://img.icons8.com/fluency/50/spotify.png)](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY)
- 
+
