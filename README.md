@@ -5,7 +5,7 @@
  
 # Oskar Trąpczyński 👋
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D8590&width=435&lines=Fullstack+Developer+(TypeScript+%2F+Python);AI-assisted+Engineering;Real-time+Multiplayer+%26+WebGPU;2D+%26+3D+Designer;Music+Producer+%26+DJ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D8590&width=435&lines=Fullstack+Developer;TypeScript+%2F+Python;AI-assisted+Engineering;Real-time+Multiplayer+%26+WebGPU;2D+%26+3D+Designer;Music+Producer+%26+DJ)](https://git.io/typing-svg)
  
 ## ℹ️ About me
  
