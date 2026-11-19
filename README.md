@@ -1,7 +1,5 @@
-<!-- ![Baner Photo](https://github.com/oskardenis167/oskardenis167/blob/main/baner.png) -->
 ![Baner Video](https://github.com/oskartrapczynski/oskartrapczynski/blob/main/OskarTTPromo.gif)
 
-<!--  -->
  
 # Oskar Trąpczyński 👋
  
@@ -12,19 +10,24 @@
 Fullstack Developer (TypeScript / Python) in commercial software since 2023, running software house roles and my own freelance clients in parallel. I enjoy both old-school programming (using my own brain) and new-school programming with AI agents.
  
 **What I've shipped**
-- 🇸🇪 **B2B FinTech SaaS** – built the Playwright E2E test environment from scratch with CI and daily Slack reports, fixed frontend and integration issues (including OCR invoice parsing), and shipped features in the React Native app and Chrome extension
+- 🇸🇪 **B2B FinTech SaaS** – shipped features end to end across the Next.js web app, React Native mobile app and browser extension (tRPC, Drizzle, Temporal), fixed frontend and integration issues including OCR invoice parsing, and designed the Playwright E2E test architecture from scratch with CI and daily Slack reports
 - 🇺🇸 **Biotech research platform** – worked with biologists on scripts that run biological experiments on lab hardware, developed the surrounding web apps and mentored a junior developer
 - 🇬🇧 **Financial advice platform** – fullstack work (React, Node.js, GraphQL) and a 3D AI virtual assistant with speech-to-text and text-to-speech
+- 🇵🇱 **DORA metrics platform** – internal platform aggregating GitHub, GitLab and Jira data into DORA and Kanban metrics; worked on the NestJS + Prisma backend, BullMQ background jobs, Redis caching and Playwright/Pact test pipelines
 - 🧩 **Freelance** – custom CMS platforms, SEO landing pages and a Google Maps route optimizer for small businesses
+- 🎛️ **DJ player (engineering thesis)** – Electron desktop app with two decks playing simultaneously, a crossfader and hot cue points
+
 > 🔒 Most of my commercial work lives in private company repositories, so it doesn't show up on this profile.
  
 **What I'm building**
-- 🚀 **Multiplayer 2.5D space shooter** – 30 Hz authoritative server, WebTransport netcode (6.6 ms p99), WebGPU rendering, ~41k lines of TypeScript and 650+ tests
-- 🤝 **No Ghosting** – a platform that monitors recruiter–candidate communication and flags ghosting *(private repo for now)*
-- 🎬 **GenAI video generator**
+- 🚀 **Multiplayer 2.5D space shooter** – 30 Hz authoritative server, WebTransport netcode (6.6 ms RTT p99), WebGPU rendering, ~41k lines of TypeScript and 650+ tests
+- 🤝 **No Ghosting** – a platform that monitors recruiter–candidate communication and flags ghosting *(private for now, will be open-sourced)*
+- 🎬 **AI music video generator** – turns song scenes into clips via Runway text-to-video, with per-scene styles, cost estimates and background generation
+
 **Off the keyboard**
 - 🎧 Music producer and DJ: clubs, festivals and KSW events · 4M+ views on YouTube · 100k+ plays on Spotify
 - 🎨 2D/3D and motion design: Kinguin NFT cards, Warta ad animations
+
 ## 🦾 Tech stack
  
 **Languages & frontend**
@@ -36,18 +39,32 @@ Fullstack Developer (TypeScript / Python) in commercial software since 2023, run
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
  
 **Backend & data**
  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge)
+ 
+**Real-time**
+ 
+![WebTransport](https://img.shields.io/badge/WebTransport-1F6FEB?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
  
 **Cloud, DevOps & testing**
  
@@ -55,11 +72,16 @@ Fullstack Developer (TypeScript / Python) in commercial software since 2023, run
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
  
-**AI-assisted development**
+**AI**
  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
  
